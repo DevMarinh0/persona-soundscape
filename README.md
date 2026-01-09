@@ -2,6 +2,8 @@
 
 Uma biblioteca musical interativa para as trilhas sonoras dos jogos *Persona 1, 2, 3, 4 e 5*, inspirada no design do site oficial do 30º aniversário da série. Explore músicas por jogo, categoria ou compositor, e ouça trechos diretamente do Spotify ou YouTube — tudo em um site público.
 
+## SITE OFICIAL 30º ANIVERSÁRIO 
+https://asia.sega.com/p30th/en/
 
 ## 🚀 Funcionalidades
 
